@@ -1,0 +1,38 @@
+<html>
+    <title>My School</title>
+    <h1>My School</h1>
+    <body>
+        <body bgcolor="red">
+            <font color="blue">Hello Codingal This Is A webpage About My School</font>
+            <h1>About</h1>
+            <p>
+                <table>
+                    <table border="2">
+                        <tr>
+                            <th>Name</th>
+                            <th>St Aidians High School</th>
+                        </tr>
+                        <tr>
+                            <td>Location</td>
+                            <td>100 Waverley Dr, Wishaw ML2 7EW</td>
+                        </tr>
+                        <tr>
+                            <td>Opened</td>
+                            <td>November 18, 1963</td>
+                        </tr>
+                        <tr>
+                            <td>Curent Age</td>
+                            <td>60</td>
+                        </tr>
+                        <tr>
+                            <td>Current No. Of Pupils</td>
+                            <td>915</td>
+                        </tr>
+                        <tr>
+                            <td>Current Head Teacher</td>
+                            <td>Claire Connelly</td>
+                        </tr>
+                </table>
+            </p>                                         
+    </body>    
+</html>
